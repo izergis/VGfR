@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609869606288",
+    "firebase_url": "https://turingvgfr-cc634-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "turingvgfr-cc634",
+    "storage_bucket": "turingvgfr-cc634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609869606288:android:a0a02c9a63e19e6f439715",
+        "android_client_info": {
+          "package_name": "com.VGFR.Turing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609869606288-bmbormdkgbh2b6ejhdpqn449j6mioiue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8pdXeoDXMQ3gRXVsEteE-z4dl3sWsuL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609869606288-bmbormdkgbh2b6ejhdpqn449j6mioiue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
